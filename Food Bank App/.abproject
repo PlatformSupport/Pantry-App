@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Food Bank App",
+  "ProjectGuid": "bd5bbefc-cfe0-43ce-b7e5-a890b7cffca4",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.FoodBankApp",
+  "DisplayName": "Food Bank App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{8c704e8f-cba1-484e-914f-fbb8459f4b71}",
+  "WP8ProductID": "{77db0672-84c8-43c3-8546-7c2c11ae0f96}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
