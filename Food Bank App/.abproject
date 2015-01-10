@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.FoodBankApp",
   "DisplayName": "Food Bank App",
   "Author": "",
-  "Description": "",
+  "Description": "Food Bank App",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
