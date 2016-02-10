@@ -2,7 +2,7 @@ angular.module('pntry.services', [])
 
 .factory('API', function () {
 
-    var api_key = 'gon3GE1i7esbMM3C';
+    var api_key = '';
 
     return api_key;
 })
